@@ -1,0 +1,1 @@
+package vk_internship2025
